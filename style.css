@@ -1,0 +1,24 @@
+.body_background {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  #myCanvas
+  {
+      border-width:20px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color:#29cee0;
+    border: none;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
